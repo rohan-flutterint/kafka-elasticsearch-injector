@@ -7,7 +7,7 @@ require (
 	github.com/bsm/sarama-cluster v2.1.15+incompatible
 	github.com/datamountaineer/schema-registry v0.0.0-20170721142813-6240b64c5baa
 	github.com/go-kit/kit v0.10.0
-	github.com/linkedin/goavro/v2 v2.10.0
+	github.com/linkedin/goavro/v2 v2.13.1
 	github.com/olivere/elastic/v7 v7.0.25
 	github.com/onsi/ginkgo v1.8.0 // indirect
 	github.com/onsi/gomega v1.5.0 // indirect
